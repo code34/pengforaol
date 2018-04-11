@@ -1,5 +1,0 @@
-Todo (05.10.2002):
-
-- fix bug auto dns:
-		Not verbose anymore, take the first dns in the list without trying it
-
